@@ -18,3 +18,5 @@ git remote add origin https://github.com/HawaiiChin/Project-file-
 git checkout -b newbranch
 git switch -c newtestbranch
 git switch master
+git remote show origin
+git push origin newbranch
