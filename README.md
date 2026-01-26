@@ -15,3 +15,6 @@ git log
 git branch
 git switch
 git remote add origin https://github.com/HawaiiChin/Project-file-
+git checkout -b newbranch
+git switch -c newtestbranch
+git switch master
