@@ -24,3 +24,5 @@ git remote -v
 git fetch orgin
 git push --all
 git pull origin main # local update
+git diff
+git push origin
