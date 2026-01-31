@@ -29,3 +29,5 @@ git remote add origin https://github.com/HawaiiChin/apply-function-example
 git ls-remote --heads origin
 git pull origin master
 git push -u origin master
+git branch newbranch
+git push origin newbranch
