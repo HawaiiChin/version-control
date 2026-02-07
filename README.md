@@ -31,3 +31,4 @@ git pull origin master
 git push -u origin master
 git branch newbranch
 git push origin newbranch
+git remote show origin
