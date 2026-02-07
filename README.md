@@ -32,3 +32,4 @@ git push -u origin master
 git branch newbranch
 git push origin newbranch
 git remote show origin
+ssh-keygen -t rsa -b 1999
