@@ -24,6 +24,12 @@ git remote -v
 git fetch orgin
 git push --all
 git pull origin main # local update
+
+###general flow
+mkdir workdir
+git clone https://github.com/username/repository
+git add .
+git status
 git diff
 git remote add origin https://github.com/HawaiiChin/apply-function-example
 git ls-remote --heads origin
