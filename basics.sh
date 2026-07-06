@@ -36,6 +36,13 @@ git branch -M main
 git push -u origin main
 
 
+###single file update 
+git add basics.sh && git commit -m "update" && git push
+
+###manage branch 
+git branch new
+git checkout BRANCH
+
 ###others
 git diff
 git remote add origin https://github.com/HawaiiChin/apply-function-example
